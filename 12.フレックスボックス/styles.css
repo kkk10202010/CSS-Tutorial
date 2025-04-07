@@ -69,6 +69,6 @@ div {
 main {
   display: flex;
   flex-direction: row;
-  justify-cont\ent: center;
+  justify-content: center;
   gap: 10px;
 }
