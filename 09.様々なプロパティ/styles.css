@@ -47,4 +47,5 @@ object-fit: cover;
 header {
   position: sticky;
   top: 0;
+  opacity: 0.9;
 }
